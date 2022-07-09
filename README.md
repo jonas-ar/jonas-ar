@@ -1,5 +1,1 @@
-- 👋 Olá, me chamo Jonas!
-- Atualmente aprendendo mais sobre front-end.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonas-ar&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-ar&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonas-ar&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
