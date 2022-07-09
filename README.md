@@ -1,0 +1,2 @@
+- 👋 Olá, me chamo Jonas!
+- Atualmente aprendendo mais sobre front-end.
